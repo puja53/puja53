@@ -1,4 +1,4 @@
-
+|[logo](https://github.com/puja53/puja53/blob/main/images.jpg)
 <h1 align="center">Hi 👋, I'm Puja Barman</h1>
 <h3 align="center">To be a passionate Software Engineer in Future</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
