@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java,C,PHP,Python,Javascript,SQL
 - 🌱 I’m currently learning Python,SQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me https:priyabbc11@gmail.com
+- 📫 reach me https://priyabbc11@gmail.com
 
 <!---
 puja53/puja53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
